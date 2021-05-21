@@ -509,8 +509,8 @@ z-index: 0;
 }
 
 .book-form{
-  display: flex;
-justify-content: space-between;
+  /*display: flex;
+justify-content: space-between;*/
 
 }
 .book-form .input-group{
