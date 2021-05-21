@@ -18,6 +18,7 @@
   --gradient-color:linear-gradient(to right, var(--blue-solid),var(--violet-light),var(--red-light));
   --gradient-color-alt:linear-gradient(to right,var(--violet-light),var(--blue-solid),var(--red-light));
  --form-color:#483D8B
+   --azure:#F0FFFF;
 }
 /* Global Styles*/
 html{
@@ -65,6 +66,7 @@ margin-top:2.5rem;
 cursor:pointer;
 
 }
+/*
 .btn-gradient{
 background-image: var(--gradient-color);
 
@@ -78,7 +80,7 @@ background-color: var(--purple-transparent);
 }
 .btn-purple:hover{
 background-color: #56247f;
-}
+}*/
 
 
 .dots{
@@ -202,7 +204,7 @@ font-family: 'courgette',cursive;
 
 /*booking section style*/
 .booking{
-background-image: var(--gradient-color);
+background-image: var(--azure);
 
 }
 .input-group{
